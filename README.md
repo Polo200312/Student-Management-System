@@ -1,1 +1,1 @@
-学生管理系统，纯Java语言 --PYJ, SDU
+自制学生管理系统，纯Java语言 --PYJ, SDU
